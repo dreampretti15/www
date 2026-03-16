@@ -144,7 +144,7 @@ The code has been restructured, unnecessary code has been removed, comments were
 7. The current website uses customized versions of a few social media icons (service provided by [Ion Icons](https://ionicons.com)). We do our customizations in a scss file (**/css/ion_icon_customization.scss** file in our case). Please be careful when updating this file. (Also refer to [**How to change social media icon colors?**](#how-to-change-social-media-icon-colors) the subsection in [**Answers to a Few Questions**](#answers-to-a-few-questions) section)
 
 ## Some Developer Notes
-All internal URLs are referenced through absolute paths and not relative paths. This website primaritally uses HTML, (S)CSS, Javascript, JQuery, and Bootstrap.
+All internal URLs are referenced through absolute paths and not relative paths. This website primarily uses HTML, (S)CSS, JavaScript, JQuery, and Bootstrap.
 
 ### Navigation bar / Header
 We have 3 header designs based on the screen sizes:
